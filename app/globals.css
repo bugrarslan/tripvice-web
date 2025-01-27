@@ -1,6 +1,11 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --primary-green: #28a745; /* Ana yeşil renk */
+  --dark: #121212; /* Siyah ton */
+  --light: #ffffff; /* Beyaz */
+  --text-gray: #f5f5f5; /* Açık gri (yazılar için) */
+  --muted-green: #3cb371; /* Daha yumuşak yeşil */
 }
 
 @media (prefers-color-scheme: dark) {
